@@ -11,7 +11,9 @@ Clone the repo and run `yarn install`
 or Run command
 
 ```
-npx degit TheSwordBreaker/vite-reactts-eslint-prettier project-name
+npx degit ao-Barbosa/vite-reactts-tailwindcss-base project-name
+cd project-name
+yarn install
 ```
 
 ## Start
